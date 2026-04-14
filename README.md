@@ -52,7 +52,18 @@ To configure and test basic firewall rules to allow or block network traffic usi
 
 Inbound traffic on port 23 was successfully blocked using Windows Firewall.
 
+##screenshots
+Screenshot 2026-04-14 061451.png
 
+Screenshot 2026-04-14 091251.png
+
+Screenshot 2026-04-14 091346.png
+
+Screenshot 2026-04-14 091454.png
+
+Screenshot 2026-04-14 091714.png
+
+Screenshot 2026-04-14 091928.png
 ---
 
 ## 📚 Conclusion
